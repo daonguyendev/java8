@@ -1,0 +1,32 @@
+package lesson05_defaultmethods;
+
+public class Java8DefaultMethods {
+
+	// --- Multiple Defaults ---
+	public interface vehicle {
+		default void print() {
+			System.out.println("I am a vehicle!");
+		}
+	}
+	
+	public interface fourWheeler {
+		default void print() {
+			System.out.println("I am a four wheeler!");
+		}
+	}
+	
+	//First solution is to create an own method that overrides the default implementation
+	public class car1 implements vehicle, fourWheeler {
+		public void print() {
+			System.out.println("I am a four wheeler car vehicle!");
+		}
+	}
+	
+	//Second solution is to call the default method of the specified interface using super
+	public class car2 implements vehicle, fourWheeler {
+		public void print() {
+			vehicle.super.print();
+		}
+	}
+
+}

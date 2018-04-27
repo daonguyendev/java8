@@ -1,0 +1,10 @@
+package lession01_streams;
+
+public class Java8Streams_Part02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

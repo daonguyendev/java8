@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+D:\self-research\java8\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1910427073.index
+1098771641.index
+1488952983.index
+2392508343.index
+3699150535.index

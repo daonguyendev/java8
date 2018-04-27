@@ -1,0 +1,10 @@
+package lesson02_lambdaexpressions;
+
+public class Java8LambdaExpressions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

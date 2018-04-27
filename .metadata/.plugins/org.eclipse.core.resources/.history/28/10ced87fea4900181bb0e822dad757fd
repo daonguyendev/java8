@@ -1,0 +1,24 @@
+package lesson05_defaultmethods;
+
+public class Java8DefaultMethods {
+
+	//Multiple Defaults
+	public interface vehicle {
+		default void print() {
+			System.out.println("I am a vehicle!");
+		}
+	}
+	
+	public interface fourWheeler {
+		default void print() {
+			System.out.println("I am a four wheeler!");
+		}
+	}
+	
+	public class car implements vehicle, fourWheeler {
+		public void print() {
+			System.out.println("I am a four wheeler car vehicle!");
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package lesson05_defaultmethods;
+
+public class Java8DefaultMethods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
