@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="lesson02_lambdaexpressions.Java8LambdaExpressions"/>
+<fullyQualifiedTypeName name="lesson02_lambdaexpressions.Java8LambdaExpressions.MathOperation"/>
+<fullyQualifiedTypeName name="lesson02_lambdaexpressions.Java8LambdaExpressions.GreetingService"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.function.Predicate"/>
+<fullyQualifiedTypeName name="lesson05_defaultmethods.MultipleDefaults.vehicle"/>
+<fullyQualifiedTypeName name="lesson06_optionalclass.Java8OptionalClass"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="javax.script.ScriptEngineManager"/>
+<fullyQualifiedTypeName name="javax.script.ScriptEngine"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8NewDateTimeAPI"/>
+<fullyQualifiedTypeName name="java.time.Month"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8ZonedDateTimeAPI"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8ChronoUnitsEnum"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8PeriodAndDuration"/>
+<fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8TemporalAdjusters"/>
+<fullyQualifiedTypeName name="java.time.temporal.TemporalAdjuster"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.time.temporal.TemporalAdjusters"/>
+<fullyQualifiedTypeName name="java.time.DayOfWeek"/>
+<fullyQualifiedTypeName name="lesson08_newdatetimeapi.Java8BackwardCompatibility"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.time.Instant"/>
+<fullyQualifiedTypeName name="java.time.ZoneId"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
+<fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
+<fullyQualifiedTypeName name="java.util.Base64"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+</qualifiedTypeNameHistroy>
